@@ -1,0 +1,181 @@
+ a {
+     color: brown
+ }
+
+ h2 {
+     font-family: 'Fredoka One', cursive;
+     font-size: 20px;
+ }
+
+ h1 {
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: #fff;
+     font-size: 45px;
+ }
+
+ .contact-form {
+     font-size: 50px;
+     background-color: royalblue;
+     width: 100vw;
+     line-height: 2;
+
+
+ }
+
+ .si {
+     font-size: 60px;
+     font: weight 20px;
+     background-color: blueviolet;
+     width: 100vw;
+     padding-top: 0px;
+     border: 4px inset violet;
+     justify-content: space-between;
+     align-items: center;
+     position: static;
+     z-index: 100;
+
+
+ }
+
+
+
+
+ .imgs {
+     position: absolute;
+     top: -9px;
+     left: -5px;
+     width: 79px;
+     transition: all 1.2s;
+     height: 82px;
+ }
+
+ body {
+     background-color: gray;
+     font-family: sans-serif;
+
+ }
+
+ .aa {
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+ * {
+     margin: 0;
+     padding: 0;
+     border: 0;
+     font-size: 100%;
+     vertical-align: baseline;
+ }
+
+ .head {
+     
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     height: 90px;
+     background: #1f1d1d;
+
+
+ }
+
+ .bus {
+     border-radius: 9px;
+     width: 200px;
+     height: 25px;
+     box-sizing: 30px;
+ }
+
+ .header {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+
+ .header {
+     height: 60vh !important;
+     background: url(paisaje.png) no-repeat center;
+     background-size: cover;
+ }
+
+ nav {
+    background-color: #333;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+  }
+  
+  li {
+    display: inline-block;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 13px 13px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+ .title {
+     margin-bottom: 40px;
+     font-size: 60px;
+     font-weight: 600;
+     text-transform: uppercase;
+     color: #fff;
+ }
+
+ p {
+     margin-bottom: 40px;
+     font-size: 18px;
+     color: #fff;
+ }
+
+ .btn {
+     display: inline-block;
+     margin-top: 15px;
+     padding: 10px 40px;
+     border: 2px solid #9c27b0;
+     color: #fff;
+     text-decoration: none;
+     background: #9c27b0;
+     font-family: 'Courier New', Courier, monospace;
+ }
+
+ .btn:hover {
+     background: none;
+ }
+
+ .btn-home {
+     display: flex;
+ }
+
+ .btn-home a {
+     margin: 0 10px;
+ }
+
+ .content {
+     height: 50vh;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+ }
+
+ .sau {
+     padding: 30%;
+     background: #1f1d1d;
+ }
+
+ .box-container {
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+     text-align: center;
+ }

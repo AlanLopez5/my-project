@@ -1,0 +1,118 @@
+
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#fff;
+
+}
+
+.si {
+    font-size: 60px;
+    font: weight 20px;
+    background-color: blueviolet;
+    width: 100vw;
+    padding-top: 0px;
+    border: 4px inset violet;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    z-index: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+
+}
+
+
+
+p .si {
+    font-size: 60px;
+    font: weight 20px;
+    background-color: blueviolet;
+    width: 100vw;
+    padding-top: 15px;
+
+
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+.bus {
+    border-radius: 9px;
+    width: 200px;
+    height: 25px;
+    box-sizing: 30px;
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100px;
+    background: #171717;
+    
+    
+    
+}
+
+
+
+.imgs {
+    position: absolute;
+    top: -9px;
+    left: -5px;
+    width: 79px;
+    height: 82px;
+
+}
+
+.foto {
+    margin: 15px;
+}
+
+.navbar {
+    display: flex;
+    margin-right: 10px;
+    width: 66px;
+    
+}
+
+.navbar a {
+    display: block;
+    padding: 23px 20px;
+    color: white;
+    
+    
+}
+
+.navbar a:hover {
+    background: #3f3f3f;
+    top: 10px;
+       
+}
+
+.othericon {
+    display: inline-block;
+     margin-top: 15px;
+     padding: 10px 40px;
+     border: 2px solid #9c27b0;
+     color: #fff;
+     text-decoration: none;
+     background: #9c27b0;
+     
+}
+
+.othericon:hover{
+    background: none;
+    color: red;
+}
+
+.othericon-home{
+    display: flex;
+}
